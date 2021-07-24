@@ -4,6 +4,7 @@ I'm SlownDezy_, I'm 16 yo, and I am Game Designer and Java Developer with 2 year
 
 
 📋 Technologies:
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
