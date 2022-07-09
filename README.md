@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm SlownDezy_</h1>
 <h3 align="center">Brazilian developer of Minigames on Minecraft servers for 3 years, I'm working on a secret project.</h3>
 
-- 🌱 I’m currently learning **web development**
+<p align="center">- 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **SlownDezy#8974**
+- 📫 How to reach me **SlownDezy#8974**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
