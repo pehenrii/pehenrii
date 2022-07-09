@@ -1,4 +1,4 @@
-<h2 align="center">Hi :wave: I'm SlownDezy_<br>Brazilian developer of minigames on Minecraft servers for 3 years, I'm working on a secret project.</h2>
+<h2 align="center">Hi :wave: I'm SlownDezy_<br>Brazilian game designer and developer of minigames on Minecraft servers for 3 years.</h2>
 
 ###
 
