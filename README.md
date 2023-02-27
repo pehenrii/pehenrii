@@ -1,5 +1,5 @@
 <h2 align="center">:wave: Hello, I'm SlownDezy_
-  <p>Java developer from Minas Gerais who started his career in 2020.</p>
+  <p>Java developer from Brazil who started his career in 2020.</p>
 </h2>
 
 <div align="center">
