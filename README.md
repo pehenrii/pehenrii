@@ -8,7 +8,7 @@ Currently learning about backend development.
 
 ### Technologies
 
-- **🌐 Languages**:️ Java, Kotlin, Go
-- **📈 Databases**: PostgreSQL, MongoDB, Redis
-- **📔 Frameworks**: Paper, Spring
+- **Languages**:️ Java, Kotlin, Go
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Frameworks**: Paper, Spring
 
