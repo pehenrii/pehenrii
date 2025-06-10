@@ -1,12 +1,9 @@
 
-## Hi there 👋 
+### 👋 Hello
 
-I'm [Pedro Henrique](https://github.com/pehenrii), I'm 19 years old, a software developer who started learning from Minecraft projects.  
-I'm currently working as a freelancer in Java.
+I'm [Pedro Henrique](https://github.com/pehenrii), a 19-year-old software developer passionate about building scalable and well-designed systems.
+My journey into programming started with plugins for Minecraft, where I discovered my love for solving complex problems through code.
 
-### Technologies
+I currently work at RedeCommunity as a software engineer.
 
-- **Languages**:️ Java, Kotlin, TypeScript
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Frameworks**: Paper, SpringBoot
-
+My main languages ​​are Java and Kotlin, but I also like to dabble in TypeScript and other technologies when the opportunity arises.
