@@ -8,5 +8,5 @@ I currently work at RedeCommunity as a software engineer.
 
 Reach me at:
 - **pehenrii.ar@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/pedrohenri-dev)
+- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-b844a32a7/)
 - [pe.henrii](https://discord.com/users/783550664918827028)
